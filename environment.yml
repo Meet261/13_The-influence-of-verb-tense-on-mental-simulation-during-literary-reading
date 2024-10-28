@@ -1,0 +1,16 @@
+name: eye_tracking_analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - r-base=4.2
+  - r-tidyverse
+  - r-knitr
+  - r-rmarkdown
+  - r-data.table
+  - r-stringr
+  - r-readr
+  - r-readxl
+  - r-plyr
+  - r-doBy
+  - r-gridextra
